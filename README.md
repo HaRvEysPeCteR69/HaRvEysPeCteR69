@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=700&height=70&lines=Shivam+Shaunik" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Backend+Engineer;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=750&lines=AI%2FML+%26+Backend+Engineer;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,50:7F1D1D,100:F43F5E&height=4&width=800" width="100%"/>
 
