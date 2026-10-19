@@ -4,13 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%7C+AR+%7C+Automation+Enthusiast;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%"/>
-
 </div>
 
 ### 👋 About Me
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="left"/>
 
 - 🎓 B.Tech CSE student with a strong interest in **AI, AR & Automation**
 - 🤖 Building AI voice assistants, computer vision tools, and workflow automation with **n8n**
@@ -69,8 +65,6 @@
 <br>
 
 ### 🌐 Connect With Me
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" align="right"/>
 
 <p align="left">
 <a href="https://github.com/HaRvEysPeCteR69" target="_blank">
