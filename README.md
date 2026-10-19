@@ -79,16 +79,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaRvEysPeCteR69&show_icons=true&theme=red&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=F43F5E&icon_color=F87171&text_color=E5E5E5" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaRvEysPeCteR69&theme=highcontrast&hide_border=true&background=0D0D0D&ring=F43F5E&fire=F87171&currStreakLabel=F43F5E" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HaRvEysPeCteR69&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=F43F5E&icon_color=F87171&text_color=E5E5E5&border_color=F43F5E" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaRvEysPeCteR69&hide_border=true&background=0D0D0D&ring=F43F5E&fire=F87171&currStreakLabel=F43F5E&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=A3A3A3" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRvEysPeCteR69&layout=compact&theme=red&hide_border=true&bg_color=0D0D0D&title_color=F43F5E&text_color=E5E5E5" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRvEysPeCteR69&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F43F5E&text_color=E5E5E5&border_color=F43F5E" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaRvEysPeCteR69&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=F87171&line=F43F5E&point=FFFFFF" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaRvEysPeCteR69&hide_border=true&bg_color=0D0D0D&color=F87171&line=F43F5E&point=FFFFFF&area=true&area_color=F43F5E" width="98%" alt="Contribution Graph"/>
 
 </div>
 
