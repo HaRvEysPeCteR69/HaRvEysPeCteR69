@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+Shaunik;AI+%7C+AR+%7C+Automation+Enthusiast;Code+by+Logic%2C+Music+by+Heart" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A78BFA&height=200&section=header&text=Shivam%20Shaunik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20AR%20%7C%20Automation&descAlignY=55&descSize=20" alt="Header banner" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%7C+AR+%7C+Automation+Enthusiast;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%"/>
 
 </div>
 
 ### 👋 About Me
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="left"/>
 
 - 🎓 B.Tech CSE student with a strong interest in **AI, AR & Automation**
 - 🤖 Building AI voice assistants, computer vision tools, and workflow automation with **n8n**
@@ -43,7 +49,28 @@
 
 <br>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HaRvEysPeCteR69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaRvEysPeCteR69&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRvEysPeCteR69&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaRvEysPeCteR69&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
 ### 🌐 Connect With Me
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" align="right"/>
 
 <p align="left">
 <a href="https://github.com/HaRvEysPeCteR69" target="_blank">
