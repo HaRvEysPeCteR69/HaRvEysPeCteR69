@@ -94,5 +94,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F43F5E,50:7F1D1D,100:0F0F0F&height=4&width=800" width="100%"/>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=HaRvEysPeCteR69&style=for-the-badge&color=F43F5E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=F43F5E&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+together" alt="Footer" />
 </div>
