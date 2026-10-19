@@ -31,7 +31,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="ASSETS/coding.gif" width="100%" alt="Coding animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=F87171&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=400&height=180&lines=def+main():;++print(%22Hello%2C+World%22);++model.train(data);++return+success;%23+building+%26+breaking+things" alt="Coding animation" width="100%"/>
 
 </td>
 </tr>
