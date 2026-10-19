@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A78BFA&height=200&section=header&text=Shivam%20Shaunik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26%20Software%20Development&descAlignY=55&descSize=20" alt="Header banner" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=700&height=70&lines=Shivam+Shaunik" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Backend+Engineer;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Backend+Engineer;Code+by+Logic%2C+Music+by+Heart;Always+curious%2C+always+improving" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,50:7F1D1D,100:F43F5E&height=4&width=800" width="100%"/>
 
 </div>
 
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 ### 👋 About Me
 
-- 🎓 B.Tech CSE (AI/ML) 
+- 🎓 B.Tech CSE (AI/ML)
 - 🧠 Hands-on with AI-powered automation, voice-based workflows, and LLM integration
 - 🛠️ Tech stack: **Python, FastAPI, React.js, PostgreSQL, Celery, Redis, n8n, Docker**
 - 🎯 Focused on backend engineering and intelligent, data-driven applications
@@ -20,58 +28,49 @@
 
 > 💬 Ask me about **Code by Logic, Music by Heart**
 
+</td>
+<td width="40%" align="center">
+
+<img src="assets/coding.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
 <br>
-🧠 What I'm Learning
 
-Area
+### 🧠 What I'm Learning
 
-Current focus
+| Area | Current Focus |
+|---|---|
+| Frontend Engineering | React, Next.js, interactive interfaces |
+| Software Architecture | Components, dependencies, system boundaries |
+| System Design | Scalability, reliability, failure scenarios |
+| Simulation Engineering | Modelling system behaviour and constraints |
+| Backend Development | APIs, data flow, service integration |
+| Developer Workflow | Git, GitHub, debugging, deployment |
+| AI & Automation | Intelligent applications and automated workflows |
 
-Frontend Engineering
+<br>
 
-React, Next.js, interactive interfaces
-
-Software Architecture
-
-Components, dependencies, system boundaries
-
-System Design
-
-Scalability, reliability, failure scenarios
-
-Simulation Engineering
-
-Modelling system behaviour and constraints
-
-Backend Development
-
-APIs, data flow, service integration
-
-Developer Workflow
-
-Git, GitHub, debugging, deployment
-
-AI & Automation
-
-Intelligent applications and automated workflows
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=F43F5E" />
 </p>
 
 <br>
@@ -80,16 +79,16 @@ Intelligent applications and automated workflows
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaRvEysPeCteR69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaRvEysPeCteR69&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HaRvEysPeCteR69&show_icons=true&theme=red&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=F43F5E&icon_color=F87171&text_color=E5E5E5" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaRvEysPeCteR69&theme=highcontrast&hide_border=true&background=0D0D0D&ring=F43F5E&fire=F87171&currStreakLabel=F43F5E" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRvEysPeCteR69&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRvEysPeCteR69&layout=compact&theme=red&hide_border=true&bg_color=0D0D0D&title_color=F43F5E&text_color=E5E5E5" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaRvEysPeCteR69&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaRvEysPeCteR69&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=F87171&line=F43F5E&point=FFFFFF" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -99,18 +98,20 @@ Intelligent applications and automated workflows
 
 <p align="left">
 <a href="https://github.com/HaRvEysPeCteR69" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F43F5E" />
 </a>
 <a href="https://www.linkedin.com/in/shivam-shaunik/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F43F5E" />
 </a>
 <a href="mailto:shauniks0305@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=F43F5E" />
 </a>
 </p>
 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=HaRvEysPeCteR69&style=for-the-badge&color=38BDF8" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F43F5E,50:7F1D1D,100:0F0F0F&height=4&width=800" width="100%"/>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=HaRvEysPeCteR69&style=for-the-badge&color=F43F5E&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
